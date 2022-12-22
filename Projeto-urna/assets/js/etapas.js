@@ -28,11 +28,11 @@ let etapas = [
             {
                 numero: '99',
                 nome: ' Monkey D. Luffy',
-                partidos: 'One Piece',
+                partido: 'One Piece',
                 vice: 'Roronoa Zoro',
                 fotos: [
                     {url: 'luffy.jfif', legenda: 'Prefeito'},
-                    {url: 'zoroo.jfif', legenda: 'Vice-Prefeito', small: true}
+                    {url: 'zorooo.jfif', legenda: 'Vice-Prefeito', small: true}
                 ]
             },
             {
